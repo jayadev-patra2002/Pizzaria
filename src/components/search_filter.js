@@ -39,7 +39,7 @@ export function Search()
  
     return(
         <>
-          <div  className='shadow bg-white rounded' style={{height:'69px',width:'890px',margin:'75px',justifyContent:"center"}}> 
+          <div  className='shadow bg-white rounded' style={{height:'69px',width:'890px',margin:'85px',justifyContent:"center"}}> 
           <form className="d-flex">
            <input className="form-control me-2" type="search" value={search} onChange={(e)=>{setsearch(e.target.value)}}placeholder="Search Pizzas.." aria-label="Search" style={{width:'360px',marginTop:'15px',border:'1px solid black',marginLeft:'10px'}}/>
            <select className="bg-white rounded" onChange={(e)=>{setoption(e.target.value)}} value={option} style={{width:'140px',height:'36px',marginTop:'15px',marginLeft:'20px'}}>
