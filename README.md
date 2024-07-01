@@ -68,15 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-![pizzaria4](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/ef1bcf7a-d0ac-4125-9343-7ad66a44fac8)
-![pizzaria5](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/062ef105-4786-4238-93e5-4b990a831e1a)
-![pizzaria6](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/15115208-ffee-45d8-be0a-bb6c864be29b)
-![pizzaria7](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/06b6116b-70a7-4945-8c20-541ba3313ef9)
-![pizzaria8](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/68dab118-b1fb-4a71-9656-3ba1c6e9df87)
-![pizzaria9](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/18308298-e0b7-4ae9-a7a9-8cf12e71c1b4)
-![pizzaria10](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/c7ba3566-7985-440b-9e71-7ececb6cadc2)
-![pizzaria1](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/b4a6cb94-ee64-4907-854d-f1cc61e7d14a)
-![pizzaria2](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/3a830de5-b04b-49cb-a399-0c5618e67844)
-![pizzaria3](https://github.com/jayadev-patra2002/Pizzaria/assets/129044059/f7003462-9457-412b-b540-f62bd98ec62e)
